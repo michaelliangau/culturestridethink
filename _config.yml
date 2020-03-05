@@ -1,12 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+name: 'Soho Mandarin'
+description: 'The latest in Chinese learning and Soho Mandarin related news.'
+logo: 'assets/images/sohotrans.png'
+favicon: 'assets/images/sohosquaresotrans.png'
 baseurl: ''
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+email: 'michael@sohomandarin.com'
 
 include: ["_pages"]
 permalink: /:title/
@@ -20,20 +19,18 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+      name:           Soho Mandarin
+      site:           https://www.sohomandarin.com
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Soho Mandarin is your best way to learn Chinese online from natives living in China."
+      email:          michael@sohomandarin.com
 
     jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+      name:           Michael Liang
+      site:           https://www.sohomandarin.com
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "You love it"
+      email:          michael@sohomandarin.com
  
 # Defaults
 defaults:
