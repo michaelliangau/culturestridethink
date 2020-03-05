@@ -18,20 +18,22 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    soho:
       name:           Soho Mandarin
       site:           https://www.sohomandarin.com
       avatar:         ../assets/images/sohosquarewhite.png
       bio:            "Soho Mandarin is an Chinese school taught online by native teachers living in China."
       email:          michael@sohomandarin.com
+      url:            author-soho
 
-    jane:
+    michaelliang:
       name:           Michael Liang
       site:           https://www.sohomandarin.com
       avatar:         ../assets/images/ml.jpg
       bio:            "Co-Founder of Soho Mandarin - online Chinese language school."
       email:          michael@sohomandarin.com
- 
+      url:            author-michael-liang
+
 # Defaults
 defaults:
 
@@ -40,8 +42,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: soho
+      avatar: ../assets/images/sohosquarewhite.png
       
   # all pages
   - scope:
