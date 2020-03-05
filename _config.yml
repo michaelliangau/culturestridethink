@@ -21,14 +21,14 @@ authors:
     sal:
       name:           Soho Mandarin
       site:           https://www.sohomandarin.com
-      avatar:         'https://think.sohomandarin.com/assets/images/sohotrans.jpg'
-      bio:            "The best way to learn Chinese online from native teachers living in China."
+      avatar:         ../assets/images/sohosquarewhite.png
+      bio:            "Soho Mandarin is an Chinese school taught online by native teachers living in China."
       email:          michael@sohomandarin.com
 
     jane:
       name:           Michael Liang
       site:           https://www.sohomandarin.com
-      avatar:         'https://think.sohomandarin.com/assets/images/ml.jpg'
+      avatar:         ../assets/images/ml.jpg
       bio:            "Co-Founder of Soho Mandarin - online Chinese language school."
       email:          michael@sohomandarin.com
  
