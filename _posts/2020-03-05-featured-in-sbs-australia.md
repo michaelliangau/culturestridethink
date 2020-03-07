@@ -3,7 +3,7 @@ layout: post
 title:  "Soho Mandarin in SBS Australia"
 categories: [ News, SBS, Podcast ]
 image: assets/images/sbs.jpg
-author: michaelliang
+author: soho
 tags: [featured]
 ---
 Soho Mandarin founder [Michael Liang](../author-michael-liang) has been featured in SBS Mandarin's podcast interviewing him about what Soho Mandarin is, why Soho Mandarin was created and how this online language school is different.
