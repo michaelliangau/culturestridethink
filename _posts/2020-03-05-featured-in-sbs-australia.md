@@ -6,17 +6,17 @@ image: assets/images/sbs.jpg
 author: michaelliang
 tags: [featured]
 ---
-Soho Mandarin founder [Michael Liang](../author-michael-liang) has been featured in SBS Mandarin's podcast interviewing him about what Soho Mandarin is, what drove him to create Soho Mandarin and how this online language school is different from the competition.
+Soho Mandarin founder [Michael Liang](../author-michael-liang) has been featured in SBS Mandarin's podcast interviewing him about what Soho Mandarin is, why Soho Mandarin was created and how this online language school is different.
 
 {% include sbspodcast.html %}
 
-#### Translated transcript in English:
+#### Translated Description in English:
 
-UNSW Graduate Micahel Liang released an online Chinese learning platform called [Soho Mandarin](https://sohomandarin.com), to help Australian students learn Chinese from Chinese native teachers.
+UNSW Graduate Michael Liang released an online Chinese learning platform called [Soho Mandarin](https://sohomandarin.com), to help Australian students learn Chinese from Chinese native teachers.
 
-When mentioning his own study experience, Michael said "when I was in high school studying Chinese, I felt that Australia lacked amazing Chinese teachers."
+When mentioning his own study experience, Michael said "when I was in high school studying Chinese, I realised that accessibility to Chinese teachers was difficult to come by."
 
-"I had no way to master the Chinese I was studying and a part of the reason was because my Chinese teacher was not a native. My teacher was a Singaporean, Chinese was also her second langauge."
+"Part of the reason it sometimes felt difficult to master Chinese was because teachers weren't typically Chinese natives. My teacher was Singaporean where Chinese is typically used as a second langauge."
 
 Following the growth of China's importance to Australia's economy, international trade and the China-America trade agreement, more and more people are interested in learning Chinese.
 
@@ -26,7 +26,7 @@ Michael told [SBS Mandarin](https://www.sbs.com.au/language/mandarin), lots of h
 
 He said, the difference between this platform is the way students pay, his platform lets students master Chinese better by charging according to standardised [Chinese HSK levels](https://sohomandarin.com/hsk), this way students learn in a more relaxed environment with better results.
 
-Please click on [the podcast](https://www.sbs.com.au/language/english/audio/learning-chinese-in-an-easier-way-this-young-australian-promotes-chinese-literacy-across-australia) to listen to Michael Liang's Chinese school story. 
+Please click on [the podcast](https://www.sbs.com.au/language/english/audio/learning-chinese-in-an-easier-way-this-young-australian-promotes-chinese-literacy-across-australia) to listen to Michael Liang's story (in Chinese). 
 
 #### Original Description in Chinese:
 
