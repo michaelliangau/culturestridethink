@@ -3,12 +3,12 @@ name: 'Soho Mandarin'
 description: 'The latest in Chinese learning and Soho Mandarin related news.'
 logo: 'assets/images/sohotrans.png'
 favicon: 'assets/images/sohosquaresotrans.png'
-baseurl: '/think'
+baseurl: ''
 disqus: 'demowebsite'
 email: 'michael@sohomandarin.com'
 
 include: ["_pages"]
-permalink: /:title/
+permalink: /think/:title/
 
 # Plugins
 plugins: 
