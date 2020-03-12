@@ -18,7 +18,7 @@ According to the HSK system, I went from HSK 2 to HSK 5 and I’m going to share
 
 I was concurrently finishing off my exchange semester at Fudan University and taking private language classes at a language school in JingAn (most Chinese schools have offices there).
 
-![Getting To JingAn](../assets/images/jingan.png "Getting to JingAn")
+![Getting To JingAn](../../assets/images/jingan.png "Getting to JingAn")
 
 *My daily commute from university to JingAn (source: [Baidu Maps](https://maps.baidu.com))*
 
@@ -36,7 +36,7 @@ For those that value speaking/listening over writing/reading, my advice is to lo
 
 My schedule was mostly morning Fudan course classes and then afternoon 1-on-1 tutor classes. I took 3-hour classes 3 times a week which totaled 9 hours a week. The average student usually takes a lighter load (~4 hours/week) but my goal was to be conversational by June so I did more.
 
-![Typical Week Studying Chinese](../assets/images/typical_week.png "Typical Week Studying Chinese")
+![Typical Week Studying Chinese](../../assets/images/typical_week.png "Typical Week Studying Chinese")
 
 *My typical week (source: My Google Calendar)*
 
@@ -66,7 +66,7 @@ After sorting out registration and paying course fees (~8000 RMB), I joined a gr
 
 You will find a lot of students are at Tongji on university or Chinese government scholarships, which you can look into for financial support for your studies. All Chinese universities separate international buildings from their local ones, so we studied on a nearby campus but still had good access to canteens and facilities.
 
-![Typical Week Studying Chinese](../assets/images/tongji.png "Typical Week Studying Chinese")
+![Typical Week Studying Chinese](../../assets/images/tongji.png "Typical Week Studying Chinese")
 
 *We were located on the south side of the SiPing 四平 campus (source: [Baidu Maps](https://maps.baidu.com))*
 

@@ -17,7 +17,7 @@ UNSW Business School alumnus [Michael Liang](https://think.sohomandarin.com/auth
 With China emerging as Australia’s largest trading partner – Chinese literacy has become of utmost importance for businesses. Research carried by DFAT has indicated that China received 30.6% of Australia’s total exports in 2019. However, according to Chris Bowen, Shadow Minister for Health, this is only met by 130 Australians from a non-Chinese background who can speak Mandarin at a professional level.
 
 <div style="text-align:center">
-<img src="../assets/images/laptop.png" alt="Michael and Masae on laptop"/>
+<img src="../../assets/images/laptop.png" alt="Michael and Masae on laptop"/>
 </div>
 
 <div style="text-align:center"><i>Co-founders Michael Liang and Masae Zhang on the Soho Mandarin platform.</i></div>
@@ -41,7 +41,7 @@ In November 2019, Michael spent 20 minutes creating an expression of interest fo
 “This encouraged me to do more product validation and I began building the business infrastructure such as creating a website, looking at legal implications, setting up a bank account, designing a logo and planning the growth strategy for the business.”
 
 <div style="text-align:center">
-<img src="../assets/images/masae_michael.png" alt="Michael and Masae"/>
+<img src="../../assets/images/masae_michael.png" alt="Michael and Masae"/>
 </div>
 
 <div style="text-align:center"><i>Soho Mandarin co-founders Michael Liang and Masae Zhang.</i></div>

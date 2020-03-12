@@ -27,7 +27,7 @@ I started from HSK 2 (starting to be able to string together sentences) and in 2
 My relationship with my Mum historically is loving but less “how was your day” type. She engages and corrects and laughs at me when I screw things up.
 
 <div style="text-align:center">
-<img src="../assets/images/sharingphrases.png" alt="Sharing Phrases I've learnt to Mum"/>
+<img src="../../assets/images/sharingphrases.png" alt="Sharing Phrases I've learnt to Mum"/>
 </div>
 
 <div style="text-align:center"><i>Sharing phrases (chengyu 成语) I’ve learnt mixed in with English when I didn’t know</i></div>
@@ -41,7 +41,7 @@ Finished HSK 3, started learning HSK 4 (conversational).
 I can chat to them in Chinese, tell them about my day and where I’ve been travelling to. When we video call, I’d try to talk to them only in Mandarin but often would fail and get roasted about how trash my language was.
 
 <div style="text-align:center">
-<img src="../assets/images/travelpicsformum.png" alt="Sharing Travel Pictures with Mum"/>
+<img src="../../assets/images/travelpicsformum.png" alt="Sharing Travel Pictures with Mum"/>
 </div>
 
 <div style="text-align:center"><i>*She says “looks so pretty! Don’t forget to sleep early and be careful”!*</i></div>
@@ -50,7 +50,7 @@ My maternal grandmother who raised me is the first to know about my Lao girlfrie
 Previously I typically only connect with her at family gatherings.
 
 <div style="text-align:center">
-<img src="../assets/images/grandmother.png" alt="Grandmother"/>
+<img src="../../assets/images/grandmother.png" alt="Grandmother"/>
 </div>
 
 <div style="text-align:center"><i>*She’s the one on the right*</i></div>
