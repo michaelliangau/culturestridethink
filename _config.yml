@@ -1,7 +1,7 @@
 # Site
 name: 'Soho Mandarin'
 description: 'The latest in Chinese learning and Soho Mandarin related news.'
-logo: 'assets/images/sohotrans.png'
+logo: 'assets/images/cslogotrans.png'
 favicon: 'assets/images/sohosquaresotrans.png'
 baseurl: ''
 disqus: 'demowebsite'
