@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Soho Mandarin in SBS Australia"
+title:  "Culturestride in SBS Australia"
 categories: [ News, SBS, Podcast ]
 image: assets/images/sbs.jpg
-author: soho
+author: culturestride
 tags: [featured]
 ---
-Soho Mandarin founder [Michael Liang](../author-michael-liang) has been featured in SBS Mandarin's podcast interviewing him about what Soho Mandarin is, why Soho Mandarin was created and how this online language school is different.
+Culturestride founder [Michael Liang](../author-michael-liang) has been featured in SBS Mandarin's podcast interviewing him about what Culturestride is, why Culturestride was created and how this online language school is different.
 
 {% include sbspodcast.html %}
 
 #### Translated Description in English:
 
-UNSW Graduate Michael Liang released an online Chinese learning platform called [Soho Mandarin](https://sohomandarin.com), to help Australian students learn Chinese from Chinese native teachers.
+UNSW Graduate Michael Liang released an online Chinese learning platform called [Culturestride](https://culturestride.com), to help Australian students learn Chinese from Chinese native teachers.
 
 When mentioning his own study experience, Michael said "when I was in high school studying Chinese, I realised that accessibility to Chinese teachers was difficult to come by."
 
@@ -24,13 +24,13 @@ Whilst living in Shanghai for a period of time, Michael saw a market opportunity
 
 Michael told [SBS Mandarin](https://www.sbs.com.au/language/mandarin), lots of his friends and colleagues want to learn Chinese but finding certified Chinese teachers is relatively expensive. After living in Shanghai for a period of time, he decided to use his own experience and everything he's learnt to help people learn Chinese better.
 
-He said, the difference between this platform is the way students pay, his platform lets students master Chinese better by charging according to standardised [Chinese HSK levels](https://sohomandarin.com/hsk), this way students learn in a more relaxed environment with better results.
+He said, the difference between this platform is the way students pay, his platform lets students master Chinese better by charging according to standardised [Chinese HSK levels](https://culturestride.com/hsk), this way students learn in a more relaxed environment with better results.
 
 Please click on [the podcast](https://www.sbs.com.au/language/english/audio/learning-chinese-in-an-easier-way-this-young-australian-promotes-chinese-literacy-across-australia) to listen to Michael Liang's story (in Chinese). 
 
 #### Original Description in Chinese:
 
-毕业于新南威尔士大学商学院的Michael Liang推出了一个在线视频中文学习平台Soho Mandarin，使澳大利亚的学生可以向中国的中文教师学习中文。
+毕业于新南威尔士大学商学院的Michael Liang推出了一个在线视频中文学习平台Culturestride，使澳大利亚的学生可以向中国的中文教师学习中文。
 
 提到自己的学习经历，Michael说：“当我在高中学习中文时，我感到在澳大利亚缺少优秀的中文老师。”
 

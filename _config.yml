@@ -1,11 +1,11 @@
 # Site
-name: 'Soho Mandarin'
-description: 'The latest in Chinese learning and Soho Mandarin related news.'
+name: 'Culturestride'
+description: 'The latest in Chinese learning and Culturestride related news.'
 logo: 'assets/images/cslogotrans.png'
-favicon: 'assets/images/sohosquaresotrans.png'
+favicon: 'assets/images/cslogotrans.png'
 baseurl: ''
 disqus: 'demowebsite'
-email: 'michael@sohomandarin.com'
+email: 'michael@culturestride.com'
 
 include: ["_pages"]
 permalink: /think/:title/
@@ -18,20 +18,20 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    soho:
-      name:           Soho Mandarin
-      site:           https://www.sohomandarin.com
-      avatar:         ../assets/images/sohosquarewhite.png
-      bio:            "Soho Mandarin is an Chinese school taught online by native teachers living in China."
-      email:          michael@sohomandarin.com
-      url:            author-soho
+    culturestride:
+      name:           Culturestride
+      site:           https://www.culturestride.com
+      avatar:         ../assets/images/cslogotrans.png
+      bio:            "Culturestride is an Chinese school taught online by native teachers living in China."
+      email:          michael@culturestride.com
+      url:            author-culturestride
 
     michaelliang:
       name:           Michael Liang
-      site:           https://www.sohomandarin.com
+      site:           https://www.culturestride.com
       avatar:         ../assets/images/ml.jpg
-      bio:            "Co-Founder of Soho Mandarin - online Chinese language school."
-      email:          michael@sohomandarin.com
+      bio:            "Co-Founder of Culturestride - online Chinese language school."
+      email:          michael@culturestride.com
       url:            author-michael-liang
 
 # Defaults
@@ -42,8 +42,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: soho
-      avatar: ../assets/images/sohosquarewhite.png
+      author: culturestride
+      avatar: ../assets/images/cslogotrans.png
       
   # all pages
   - scope:

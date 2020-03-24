@@ -16,7 +16,7 @@ Like a lot of language learners, I did it for business purposes but once I got s
 
 I love my parents to bits but, like a lot of Chinese Australians, culturally we disagreed on many levels about almost everything. They were always “so Chinese”.
 
-I don’t think people question this dynamic enough but I’d love to share with you my journey and how that brought me towards creating [Soho Mandarin](https://sohomandarin.com) to help other culturally curious Australians learn Chinese language and culture.
+I don’t think people question this dynamic enough but I’d love to share with you my journey and how that brought me towards creating [Culturestride](https://culturestride.com) to help other culturally curious Australians learn Chinese language and culture.
 
 I’m going to share with you the journey I went through in 2019 and the parent-child dynamic shifts as Chinese proficiency improved.
 
@@ -77,6 +77,6 @@ With university entrance being guided entirely by your performance in this singl
 
 This is still an ongoing journey and I’ll continue to learn more and more as I spend more time interacting with Chinese society and culture. I’m nowhere near fully literate linguistically or culturally but the hope is we’ll get there one day.
 
-For culturally curious Australians, I’ve set up some infrastructure to help you go on this journey without moving to China with an online language school — [Soho Mandarin](https://sohomandarin.com). If you’d like to talk or have any questions, please feel free to reach out to me on [Facebook](https://www.facebook.com/michaelliangaustralia), [LinkedIn](https://www.linkedin.com/in/michaelliang15/) or [email](mailto:michael@sohomandarin.com).
+For culturally curious Australians, I’ve set up some infrastructure to help you go on this journey without moving to China with an online language school — [Culturestride](https://culturestride.com). If you’d like to talk or have any questions, please feel free to reach out to me on [Facebook](https://www.facebook.com/michaelliangaustralia), [LinkedIn](https://www.linkedin.com/in/michaelliang15/) or [email](mailto:michael@culturestride.com).
 
 [This is a repost from [UNSW ACYA](https://www.facebook.com/acyaunsw/)].
