@@ -36,12 +36,12 @@ We pair you up with certified, native and personally interviewed language teache
 We offer 1:1 online courses taught flexibly to your schedule to bring you from whatever proficiency you are at to at least conversationally fluent - with an emphasis on learning only what is useful in everyday communication. Each lesson is 1.5 to 2 hours of your time, typically twice a week.
 
 We charge fixed fee to get you to your proficiency goal so that there's no risk of teachers "dragging lessons out" to get more money out of you.
-Currently we only offer Mandarin Chinese but, please fill in this form if you'd like to see other languages.
+Currently we only offer Mandarin Chinese but, please fill in this <a href="https://culturestride.typeform.com/to/VNXeTO" target="_blank">form</a> if you'd like to see other languages.
 
 Learning language is difficult and time consuming but we believe the opportunities that it opens up for any individual are well worth the time.
 
 ## How to get involved
 
-If you'd like to learn more, please don't hesitate to reach out at [michael@culturestride.com](mailto:michael@culturestride.com) or check out our website at [https://culturestride.com/](https://culturestride.com/).
+If you'd like to learn more, please don't hesitate to reach out at [michael@culturestride.com](mailto:michael@culturestride.com) or check out [our website](https://culturestride.com/).
 
 Happy Learning!
