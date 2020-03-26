@@ -2,7 +2,7 @@
 layout: post
 title:  "Join Culturestride"
 categories: [ Culturestride ]
-image: assets/images/joinculturestride.png
+image: assets/images/CSLinkedInBanner.png
 author: michaelliang
 tags: [featured, sticky]
 ---
