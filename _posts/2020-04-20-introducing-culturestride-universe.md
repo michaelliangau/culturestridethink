@@ -18,7 +18,7 @@ We had a new team member who's joined the team to support our growth! Welcome <a
 
 ### 3. Culturestride Universe
 
-When I was actively learning Chinese, I always struggled to find great TV shows and movies that I could watch to help me bring up my listening and reading skills. I would rely on recommendations from Chinese friends that I'd hurriedly jot down and would never really be look up afterwards (sorry!).
+When I was actively learning Chinese, I always struggled to find great TV shows and movies that I could watch to help me bring up my listening and reading skills. I would rely on recommendations from Chinese friends that I'd hurriedly jot down and would never really be looked up afterwards (sorry!).
 
 So we launched <a href="https://culturestride.com/universe" target="_blank">Culturestride Universe</a>.
 
