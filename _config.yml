@@ -3,7 +3,7 @@ name: 'Culturestride'
 description: 'The latest in Chinese learning and Culturestride related news.'
 logo: 'assets/images/cslogotrans.png'
 favicon: 'assets/images/cslogotrans.png'
-baseurl: 'https://think.culturestride.com'
+baseurl: 'culturestride.com'
 disqus: 'demowebsite'
 email: 'michael@culturestride.com'
 
