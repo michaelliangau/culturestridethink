@@ -2,7 +2,7 @@
 layout: post
 title:  "Culturestride in SBS Australia"
 categories: [ News, SBS, Podcast ]
-image: assets/images/sbs.jpg
+image: think/assets/images/sbs.jpg
 author: culturestride
 tags: [featured]
 ---

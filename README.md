@@ -5,7 +5,7 @@
 [Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/) &nbsp; | &nbsp; 
 [WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
 
-![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
+![mundana jekyll theme screenshot](/think/assets/images/screenshot.jpg)
 
 ### Documentation
 
@@ -44,7 +44,7 @@ Copyright (C) 2019 WowThemes.net.
 
 Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/think/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ### Live Demo
 

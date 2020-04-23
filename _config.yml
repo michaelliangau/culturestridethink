@@ -1,8 +1,8 @@
 # Site
 name: 'Culturestride'
 description: 'The latest in Chinese learning and Culturestride related news.'
-logo: 'assets/images/cslogotrans.png'
-favicon: 'assets/images/cslogotrans.png'
+logo: 'think/assets/images/cslogotrans.png'
+favicon: 'think/assets/images/cslogotrans.png'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'michael@culturestride.com'
@@ -21,7 +21,7 @@ authors:
     culturestride:
       name:           Culturestride
       site:           https://www.culturestride.com
-      avatar:         ../assets/images/cslogotrans.png
+      avatar:         ../think/assets/images/cslogotrans.png
       bio:            "Culturestride is a platform creating global citizens."
       email:          michael@culturestride.com
       url:            author-culturestride
@@ -29,7 +29,7 @@ authors:
     michaelliang:
       name:           Michael Liang
       site:           https://www.culturestride.com
-      avatar:         ../assets/images/ml.jpg
+      avatar:         ../think/assets/images/ml.jpg
       bio:            "Co-Founder of Culturestride - creating global citizens."
       email:          michael@culturestride.com
       url:            author-michael-liang
@@ -43,7 +43,7 @@ defaults:
     values:
       layout: post
       author: culturestride
-      avatar: ../assets/images/cslogotrans.png
+      avatar: ../think/assets/images/cslogotrans.png
       
   # all pages
   - scope:

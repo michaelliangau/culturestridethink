@@ -2,7 +2,7 @@
 layout: post
 title:  "Introducing Culturestride Universe!"
 categories: [ Culturestride Universe, Chinese Movies, Chinese TV Shows ]
-image: assets/images/culturestrideuniversebanner.png
+image: think/assets/images/culturestrideuniversebanner.png
 author: michaelliang
 tags: [featured]
 ---
@@ -34,7 +34,7 @@ Find links to <a href="https://culturestride.com/universe/movies" target="_blank
 - L for Love L for Lies 我的最爱
 
 <div style="text-align:center">
-<img style="max-height:500px" src="../../assets/images/wanderingearth.jpg" alt="Wandering Earth"/>
+<img style="max-height:500px" src="../../think/assets/images/wanderingearth.jpg" alt="Wandering Earth"/>
 </div>
 
 Find links to <a href="https://culturestride.com/universe/tvseries" target="_blank">Chinese TV Shows and Anime</a> such as:
@@ -44,7 +44,7 @@ Find links to <a href="https://culturestride.com/universe/tvseries" target="_bla
 - Heart Signal 心动的信号 (English subtitles available)
 
 <div style="text-align:center">
-<img style="max-height:500px" src="../../assets/images/kingsavatar.jpg" alt="Kings Avatar"/>
+<img style="max-height:500px" src="../../think/assets/images/kingsavatar.jpg" alt="Kings Avatar"/>
 </div>
 
 #### How do I use this resource?
