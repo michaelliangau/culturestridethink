@@ -8,7 +8,7 @@ tags: []
 ---
 We've been quite busy here the last couple of weeks building out our core product and experimenting with a little too many ideas on how to make the language learning experience better for everyone.
 
-United under our grand mission, I'm happy to share some updates on what's been going on behind the curtains!
+United under our <a href="http://culturestride.com/mission" target="_blank">grand mission</a>, I'm happy to share some updates on what's been going on behind the curtains!
 
 ## What's out
 
