@@ -33,6 +33,14 @@ authors:
       bio:            "Co-Founder of Culturestride - creating global citizens."
       email:          michael@culturestride.com
       url:            author-michael-liang
+    
+    clintonchan:
+      name:           Clinton Chan 
+      site:           https://medium.com/kevins-dead
+      avatar:         N/A
+      bio:            N/A
+      email:          N/A
+      url:            author-clinton-chan
 
 # Defaults
 defaults:
