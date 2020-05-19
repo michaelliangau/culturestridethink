@@ -3,6 +3,7 @@ layout: post
 title:  "Bamboo Ceilings: A 2-way street"
 categories: [ABC]
 author: clintonchan
+image: think/assets/images/bamboo.png
 tags: [featured]
 ---
 
