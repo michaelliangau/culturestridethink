@@ -1,15 +1,13 @@
 ---
 layout: post
 title:  "Bamboo Ceilings: A 2-way street"
-categories: [ABC]
+categories: [Chinese Culture]
 author: clintonchan
 image: think/assets/images/bamboo.png
 tags: [featured]
 ---
 
 Are passive Asians partly to blame for the "Bamboo Ceiling"?
-
-![](https://miro.medium.com/max/4000/1*2kkFNKSnidHPzgGTO6sjfg.jpeg)
 
 My mother likes to give me plenty of shit advice --- most of it is totally unwarranted and bordering on offensive. But there is one thing she told me as a child that will never leave me: that no matter how smart, strong, or capable I am, in the "real world" I might be overlooked because I'm not "white".
 
