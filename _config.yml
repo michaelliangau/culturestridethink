@@ -37,9 +37,9 @@ authors:
     clintonchan:
       name:           Clinton Chan 
       site:           https://medium.com/kevins-dead
-      avatar:         N/A
-      bio:            N/A
-      email:          N/A
+      avatar:         ../think/assets/images/amadeus.png
+      bio:            "Curious about all things tech, economics, philanthropy, and developmental political theory"
+      email:          https://medium.com/kevins-dead
       url:            author-clinton-chan
 
 # Defaults

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Do Chinese People Eat Weird Food?"
-categories: [ABC]
+categories: [Chinese]
 image: think/assets/images/food.png
 author: clintonchan
 tags: [featured]
