@@ -4,7 +4,7 @@ title:  "Real Time Class Notes and Homework Submission"
 categories: [ Culturestride Account, Software Updates ]
 image: think/assets/images/realtimenotescp.png
 author: culturestride
-tags: []
+tags: [featured]
 ---
 Version 1 of real time teaching notes and homework submission tool for Culturestride students is live now!
 

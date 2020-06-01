@@ -4,7 +4,7 @@ title:  "Bamboo Ceilings: A 2-way street"
 categories: [Chinese Culture]
 author: clintonchan
 image: think/assets/images/bamboo.png
-tags: [featured]
+tags: []
 ---
 
 Are passive Asians partly to blame for the "Bamboo Ceiling"?

@@ -4,7 +4,7 @@ title:  "Why Do Chinese People Eat Weird Foods?"
 categories: [Chinese Culture]
 image: think/assets/images/food.png
 author: clintonchan
-tags: [featured]
+tags: []
 ---
 
 The story behind "bat soup", wet markets, Chinese Medicine, and eating dog...
