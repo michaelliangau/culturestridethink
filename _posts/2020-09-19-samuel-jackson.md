@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Samuel Jackson on Indian Heritage, Asia Adventures and Seizing Opportunities"
+title:  "Samuel Jackson on Heritage, Asia Adventure and Seizing Opportunity"
 categories: [Cross Borders]
 image: think/assets/images/samuel-jackson-1.jpeg
 author: culturestride
