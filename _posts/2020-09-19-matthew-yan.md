@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Matthew Yan on Career, Culture and Resilience"
+title:  "Matthew Yan | UNSW Student and Global Citizen"
 categories: [Cross Borders]
 image: think/assets/images/matt-yan-1.jpg
 author: culturestride

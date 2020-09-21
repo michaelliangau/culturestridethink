@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Samuel Jackson on Heritage, Asia Adventure and Seizing Opportunity"
+title:  "Samuel Jackson | New Colombo Scholar and Fledging Commercial Lawyer"
 categories: [Cross Borders]
 image: think/assets/images/samuel-jackson-1.jpeg
 author: culturestride

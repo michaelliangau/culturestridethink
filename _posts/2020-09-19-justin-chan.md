@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Justin Chan on Entrepreneurship, Family and Global Business"
+title:  "Justin Chan | Entrepreneur and National Tennis Player"
 categories: [Cross Borders]
 image: think/assets/images/justin-chan-2.jpg
 author: culturestride
