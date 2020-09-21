@@ -50,3 +50,7 @@ Be open to experiences. Be curious and listen.
 <span style="text-align:center">
 <img style="max-height:500px" src="../../think/assets/images/birney-2.jpg" alt="Birney Song"/>
 </span>
+
+---
+
+*This article is an entry into Culturestride's "Cross Borders" Article Series highlighting inspirational young people who are exploring international culture, language and opportunities.*

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jacky Wong | Entrepreneur and Startup Advocate"
+title:  "Jacky Wong | Entrepreneur and AI Engineer"
 categories: [Cross Borders]
 image: think/assets/images/jacky-1.jpg
 author: culturestride
@@ -39,3 +39,7 @@ I think figuring out passion is sort of difficult - it requires being good at so
 Something I came to understand was that people learn different things at different speeds with different teachers. I find myself ahead of the curve in some and painfully behind in others. This means that there are certain systems (e.g. university education, organisational) that may fail you and not capture your hard work/results properly. If you are not successful in a specific system and you believe in yourself, then the system is the one that failed, not you. Either find another system or figure out a way to fix the system. Most systems generally need patches anyway. To give an example- most young people try too hard to join corporates when they graduate, try join a hard-working startup instead where your energy, desire to learn and drive will be rewarded.
 
 You may not always be surrounded by the right people. Don’t be afraid to find the right friends, let go of people who don’t have your best intentions at heart and start figuring out how society works for yourself. When you start to understand that, you will learn that conventional wisdoms like “big companies are safe” aren’t the most accurate. What makes them safe? Is it that anyone who works at those companies is safe? Or is it just the top execs? Or maybe it’s because losing you is more expensive than having you. Understanding things at a first principle level (e.g. why corporates have titles) helps with your development-and this is even more important as you start a career in corporates, there is a need to understand politics at first principle and understand things like leverage.
+
+---
+
+*This article is an entry into Culturestride's "Cross Borders" Article Series highlighting inspirational young people who are exploring international culture, language and opportunities.*

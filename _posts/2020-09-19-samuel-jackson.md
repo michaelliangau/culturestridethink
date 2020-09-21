@@ -37,3 +37,7 @@ I believe it is so important to take advantage of every opportunity that is give
 <span style="text-align:center">
 <img style="max-height:500px" src="../../think/assets/images/samuel-jackson-2.jpeg" alt="Samuel Jackson"/>
 </span>
+
+---
+
+*This article is an entry into Culturestride's "Cross Borders" Article Series highlighting inspirational young people who are exploring international culture, language and opportunities.*

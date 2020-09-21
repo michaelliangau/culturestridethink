@@ -55,3 +55,7 @@ I think you’ll find that if you have that strong sense of purpose, you’ll ha
 <span style="text-align:center">
 <img style="max-height:500px" src="../../think/assets/images/matt-yan-4.jpg" alt="Matthew Yan"/>
 </span>
+
+---
+
+*This article is an entry into Culturestride's "Cross Borders" Article Series highlighting inspirational young people who are exploring international culture, language and opportunities.*

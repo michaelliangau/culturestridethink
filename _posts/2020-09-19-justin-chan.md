@@ -48,3 +48,7 @@ International networks are the most important factor in building to where we are
 The biggest mindset I have changed and one I live by daily is treating time as your most valuable commodity. Invest your time wisely while it is cheap, invest it in yourself and reap the rewards down the line. For example, what brings more value; working in data entry or investing the time to learn to program and have it do data entry automatically? Earning $100,000/year at a job where you are not continually upskilling or earning $40,000/year in a hyper-dynamic work environment where you are exposed to many different aspects of the business and take on significant responsibility? The answer, for me, would be the latter for each. 
 
 If anyone would like to reach out, please feel free to email me at <a href="mailto:justin.chan@odeo.com.au">justin.chan@odeo.com.au</a>.
+
+---
+
+*This article is an entry into Culturestride's "Cross Borders" Article Series highlighting inspirational young people who are exploring international culture, language and opportunities.*
