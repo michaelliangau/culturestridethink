@@ -1,3 +1,16 @@
 p li {
-    font-size:18px;
+    font-size: 18px;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-size: 16px;
+    text-align: center;
+}
+
+.blogImage {
+    max-height: 400px;
 }
