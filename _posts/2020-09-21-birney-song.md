@@ -29,7 +29,7 @@ Love & connection is intrinsic to our nature. But for me specifically, having th
 
 To achieve any of my goals, I’m simply working to improve myself each day, building better habits, better relationships, saying yes to new experiences. Bigger things will develop naturally I reckon.
   
-### What does culture mean to you and why are you learning Cantonese?
+### What does your culture mean to you and why are foreign languages important to you?
  
 My culture is a huge part of my personality and has shaped my values. My experiences with Australian, Chinese, and French culture allow me to connect with a greater diversity of people, which is amazing. Foreign languages are important to me because learning them allows me to connect with more people and to understand cultures more deeply.
 
