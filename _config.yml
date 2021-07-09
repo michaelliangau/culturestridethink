@@ -22,7 +22,7 @@ authors:
       name:           Culturestride
       site:           https://www.culturestride.com
       avatar:         ../think/assets/images/cslogotrans.png
-      bio:            "Culturestride is creating a more connected and emphathetic world through online language education. Learn Mandarin, Cantonese and English taught by the handpicked teachers across the world."
+      bio:            "Culturestride is creating a more connected and emphathetic world through online language education."
       email:          michael@culturestride.com
       url:            author-culturestride
 
@@ -30,7 +30,7 @@ authors:
       name:           Michael Liang
       site:           https://www.culturestride.com
       avatar:         ../think/assets/images/ml.jpg
-      bio:            "Co-Founder of Culturestride - creating global citizens."
+      bio:            "Co-Founder of Culturestride."
       email:          michael@culturestride.com
       url:            author-michael-liang
     
