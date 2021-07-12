@@ -42,7 +42,7 @@ Learning language is difficult and time consuming but we believe the opportuniti
 
 ## How to get involved
 
-If you're a student, [register your interest](https://culturestride.com/form).
+If you're a student, [register your interest](https://culturestride.com/start).
 
 If you have questions or interested in partnering with us, please reach out at [michael@culturestride.com](mailto:michael@culturestride.com) or check out [our website](https://culturestride.com/).
 

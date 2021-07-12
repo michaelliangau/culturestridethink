@@ -8,7 +8,7 @@ tags: []
 ---
 We've been quite busy here the last couple of weeks building out our core product and experimenting with a little too many ideas on how to make the language learning experience better for everyone.
 
-United under our <a href="http://culturestride.com/mission" target="_blank">grand mission</a>, I'm happy to share some updates on what's been going on behind the curtains!
+United under our grand mission, I'm happy to share some updates on what's been going on behind the curtains!
 
 ## What's out
 
@@ -20,7 +20,7 @@ Shanghainese accelerated learning of Mandarin has been hotly requested for a lon
 
 Andrei and Aimee are two of the nicest, funnest and most patient teachers I've ever had the pleasure of working with, you can check out <a href="https://www.youtube.com/watch?v=kgZ0QJ5yiZ0" target="_blank">Andrei's intro video</a> and <a href="https://www.youtube.com/watch?v=8IG51vp4sH8" target="_blank">Aimee's intro video</a> to see for yourself.
 
-Shanghainese is being added on top of our already existing offering of <a href="https://culturestride.com/masae" target="_blank">Cantonese supported Mandarin teaching</a>.
+Shanghainese is being added on top of our already existing offering of Cantonese supported Mandarin teaching.
 
 ### 2. You guys teach Cantonese now??
 
@@ -32,7 +32,7 @@ As a Cantonese speaker myself, it's super exciting to see one of my native tongu
 
 Culturestride Universe has been rebranded to Pop Culture where we introduce and help our students fall in love with Chinese culture, entertainment and music. We're helping our students surround themselves with Chinese culture in a way that only falls short of the level of immersion you'd get packing up and moving to China.
 
-*Check out Pop Culture within your <a href="https://culturestride.com/signup" target="_blank">Culturestride account</a>.*
+*Check out Pop Culture within your <a href="https://culturestride.com/login" target="_blank">Culturestride account</a>.*
 
 Language Partners are now also being rolled out for all existing and new students to increase the opportunities students have to practice what you learn in class in real life scenarios in both 1 on 1 and group settings. Thanks to all the existing Chinese natives that have participated in this so far and look forward to expanding this further!
 
@@ -40,7 +40,7 @@ Language Partners are now also being rolled out for all existing and new student
 
 Finally, Culturestride accounts have been built and rolled out in Beta to give students a single place to manage all of their lessons, payments and supporting materials.
 
-*Check out the portal within your <a href="https://culturestride.com/signup" target="_blank">Culturestride account</a>.*
+*Check out the portal within your <a href="https://culturestride.com/login" target="_blank">Culturestride account</a>.*
 
 ### 4. Two New Team Members
 
