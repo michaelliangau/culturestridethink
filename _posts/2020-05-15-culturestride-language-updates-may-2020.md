@@ -14,7 +14,7 @@ United under our <a href="http://culturestride.com/mission" target="_blank">gran
 
 ### 1. New dialect speaking teachers - Shanghainese
 
-Welcome <a href="https://culturestride.com/andrei" target="_blank">Andrei</a> and <a href="https://culturestride.com/aimee" target="_blank">Aimee</a> to the team who are Shanghainese natives on top of being able to speak Mandarin and English.
+Welcome Andrei and Aimee to the team who are Shanghainese natives on top of being able to speak Mandarin and English.
 
 Shanghainese accelerated learning of Mandarin has been hotly requested for a long time and apologies for the students that we weren't able to help because we didn't have this up earlier, we're finally able to support students who may speak Shanghainese at home to learn Mandarin sooo much faster than if they were just going from English to Mandarin.
 
