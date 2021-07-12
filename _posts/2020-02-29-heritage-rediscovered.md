@@ -4,7 +4,7 @@ title:  "Heritage Rediscovered - A Year In China"
 author: michaelliang
 categories: [ ABC, Study Abroad ]
 image: think/assets/images/heritage-rediscovered-cp.png
-tags: [featured]
+tags: []
 ---
 When you can finally speak your parent’s language (culturally and literally) a pandora’s box of empathy opens up towards them.
 

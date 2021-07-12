@@ -4,7 +4,7 @@ title:  "Culturestride in SBS Australia"
 categories: [ News, SBS, Podcast ]
 image: think/assets/images/sbs.jpg
 author: culturestride
-tags: [featured]
+tags: []
 ---
 Culturestride founder [Michael Liang](../author-michael-liang) has been featured in SBS Mandarin's podcast interviewing him about what Culturestride is, why Culturestride was created and how this online language school is different.
 

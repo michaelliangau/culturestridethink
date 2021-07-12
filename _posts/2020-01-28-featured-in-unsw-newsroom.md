@@ -4,7 +4,7 @@ title:  "Culturestride in UNSW Newsroom"
 categories: [ News, UNSW ]
 image: think/assets/images/unsw-newsroom-cp.jpg
 author: culturestride
-tags: [featured]
+tags: []
 ---
 With the increased relevance of China in Australia’s economy – from cross-border commerce, also known as daigous, to the recent trade deal with the United States – more people have expressed their interest in learning Chinese.
 

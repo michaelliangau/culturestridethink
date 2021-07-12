@@ -4,7 +4,7 @@ title:  "Studying Chinese in Shanghai"
 author: michaelliang
 categories: [ Chinese, Shanghai, Study Abroad ]
 image: think/assets/images/masae_michael.png
-tags: [featured]
+tags: []
 ---
 So you’re interested in studying Chinese in China? I spent all of 2019 living in Shanghai where I spent half a year studying Chinese at a private Chinese language institution and the other half doing a Chinese language university course at Tongji University.
 

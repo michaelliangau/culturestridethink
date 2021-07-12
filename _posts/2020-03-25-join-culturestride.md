@@ -4,7 +4,7 @@ title:  "Join Culturestride"
 categories: [ Culturestride ]
 image: think/assets/images/CSLinkedInBanner.png
 author: michaelliang
-tags: [featured, sticky]
+tags: []
 ---
 The second I landed in China on 20 Feb 2019 I realised I'd been living in a bubble.
 

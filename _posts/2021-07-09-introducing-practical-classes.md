@@ -4,7 +4,7 @@ title:  "An easier, more creative way to learn language is here - Practical Clas
 categories: [Product Updates]
 image: think/assets/images/practical.jpg
 author: culturestride
-tags: []
+tags: [featured, sticky]
 ---
 
 <div class="highlightBox subtext">

@@ -4,7 +4,7 @@ title:  "Introducing Culturestride Pop Culture!"
 categories: [ Culturestride Pop Culture, Chinese Movies, Chinese TV Shows ]
 image: think/assets/images/culturestrideuniversebanner.png
 author: michaelliang
-tags: [featured]
+tags: []
 ---
 Couple of big news points from the team to you.
 
