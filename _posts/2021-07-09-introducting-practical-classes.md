@@ -2,7 +2,7 @@
 layout: post
 title:  "An easier, more creative way to learn language is here - Practical Classes"
 categories: [Product Updates]
-image: think/assets/images/
+image: think/assets/images/practical.jpg
 author: culturestride
 tags: []
 ---
