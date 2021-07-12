@@ -73,5 +73,5 @@ Practical classes are less suited for learners who want to focus on technical vo
 We've also restructured the free trial period to include 2 classes including 1 Theory class (private 1-on-1) and 1 Practical class.
 
 <div style="width:100%;text-align:center">
-<a class="button button-primary button-block button-shadow" style="display:inline-block; margin: 10px" href="https://culturestride.com/start?plan=free">Try 2 Classes Free</a>
+<a class="button button-primary button-block button-shadow" style="display:inline-block; margin: 10px" href="https://culturestride.com/start">Try 2 Classes Free</a>
 </div>
