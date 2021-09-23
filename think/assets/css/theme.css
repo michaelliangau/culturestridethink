@@ -619,11 +619,11 @@ ol.list-featured {
 	list-style:none;
 	padding-left:0;
 }
-ol.list-featured li {
+/* ol.list-featured li {
 	counter-increment:my-awesome-counter;
 	display:flex;
 	font-size:0.8rem;
-}
+} */
 ol.list-featured li:before {
     content: "0" counter(my-awesome-counter);
     font-weight: bold;
@@ -682,13 +682,13 @@ article blockquote:before {
 	float:left;
 	line-height:1;
 }
-article:first-letter {
+/* article:first-letter {
 	float:left;
 	font-size:5em;
 	line-height:1;
 	margin:0 .2em 0 0;
 	vertical-align:top;
-}
+} */
 article h1,article h2,article h3,article h4,article h5,article h6,article .h1,article .h2,article .h3,article .h4,article .h5,article .h6 {
 	margin-bottom:2rem;
 	margin-top:2rem;
