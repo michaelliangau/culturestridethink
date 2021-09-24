@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "什么时候 - Mandarin Chinese Dictionary"
-description: ""
+description: "The Chinese characters 什么时候 means at what time or when in Mandarin Chinese. See example sentences from real Culturestride student conversations."
 categories: [Dictionary]
 image: 
 author: culturestride
@@ -20,7 +20,7 @@ Meaning
 2. When?
 
 <hr>
-Examples from real Culturestride class conversations
+Examples from real Culturestride student conversations
 
 - 他总是在吃饭的同时看电视，他不知道**什么时候**养成了这个坏习惯。  
   He always watches TV when he eats, he doesn't know when this bad habit formed.
