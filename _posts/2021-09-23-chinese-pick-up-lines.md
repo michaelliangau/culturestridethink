@@ -9,7 +9,7 @@ tags: []
 ---
 Chinese people are no foreigner to 土味情话 (pickup lines) with this tonal language offering some incredible opportunities for wordplay. Try these out in your next conversation with your current (or soon to be...) loved one.  
 <div class="highlightBox subtext">
-Tip: Hover over the Chinese words for individual character definitions and traditional characters
+Hover over the Chinese words for individual character definitions and traditional characters
 </div>  
 
 1. **你今天特别讨厌，讨人喜欢和百看不厌**  
