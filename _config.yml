@@ -8,7 +8,7 @@ disqus: 'demowebsite'
 email: 'michael@culturestride.com'
 
 include: ["_pages"]
-permalink: /think/:title/
+permalink: /think/:title
 
 # Plugins
 plugins: 
