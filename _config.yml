@@ -20,7 +20,7 @@ plugins:
 authors:
     culturestride:
       name:           Culturestride
-      site:           https://www.culturestride.com
+      site:           https://culturestride.com
       avatar:         ../think/assets/images/cslogotrans.png
       bio:            "Culturestride is creating a more connected and emphathetic world through online language education."
       email:          michael@culturestride.com
@@ -28,7 +28,7 @@ authors:
 
     michaelliang:
       name:           Michael Liang
-      site:           https://www.culturestride.com
+      site:           https://culturestride.com
       avatar:         ../think/assets/images/ml.jpg
       bio:            "Co-Founder of Culturestride."
       email:          michael@culturestride.com
