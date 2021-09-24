@@ -7,6 +7,8 @@ image:
 author: culturestride
 tags: []
 ---
+<link rel="canonical" href="https://culturestride.com/think/dictionary-shenmeshihou" />
+
 <div class="highlightBox subtext">
 Hover over the Chinese words for individual character definitions and traditional characters
 </div>  
