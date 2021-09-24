@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Bamboo Ceilings: A 2-way street"
+canonical_url: "https://culturestride.com/think/bamboo-ceilings"
 categories: [Chinese Culture]
 author: clintonchan
 image: think/assets/images/bamboo.png

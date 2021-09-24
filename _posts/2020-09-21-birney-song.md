@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Birney Song | Polyglot and Globetrotter"
+canonical_url: "https://culturestride.com/think/birney-song"
 categories: [Cross Borders]
 image: think/assets/images/birney-3.jpg
 author: culturestride

@@ -2,6 +2,7 @@
 layout: post
 title:  "9 Cheesy Chinese Pick Up Lines That'll Up Your Flirting Game"
 description: "Chinese pickup lines may be cheesy, cringy and corny, but they're sure to make someone crack a smile if you're bold enough to try them out!"
+canonical_url: "https://culturestride.com/think/chinese-pick-up-lines"
 categories: [Culture]
 image: think/assets/images/love.png
 author: culturestride

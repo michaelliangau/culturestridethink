@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Real Time Class Notes and Homework Submission"
+canonical_url: "https://culturestride.com/think/real-time-notes-and-homework"
 categories: [ Culturestride Account, Software Updates ]
 image: think/assets/images/realtimenotescp.png
 author: culturestride

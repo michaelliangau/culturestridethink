@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "An easier, more creative way to learn language is here - Practical Classes"
+canonical_url: "https://culturestride.com/think/introducing-practical-classes"
 categories: [Product]
 image: think/assets/images/practical.jpg
 author: culturestride

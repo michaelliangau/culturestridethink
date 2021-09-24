@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Samuel Jackson | New Colombo Scholar and Fledging Commercial Lawyer"
+canonical_url: "https://culturestride.com/think/samuel-jackson"
 categories: [Cross Borders]
 image: think/assets/images/samuel-jackson-1.jpeg
 author: culturestride

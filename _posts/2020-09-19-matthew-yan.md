@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Matthew Yan | UNSW Student and Global Citizen"
+canonical_url: "https://culturestride.com/think/matthew-yan"
 categories: [Cross Borders]
 image: think/assets/images/matt-yan-1.jpg
 author: culturestride

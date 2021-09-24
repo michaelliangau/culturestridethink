@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Introducing Culturestride Pop Culture!"
+canonical_url: "https://culturestride.com/think/introducing-culturestride-pop-culture"
 categories: [ Culturestride Pop Culture, Chinese Movies, Chinese TV Shows ]
 image: think/assets/images/culturestrideuniversebanner.png
 author: michaelliang

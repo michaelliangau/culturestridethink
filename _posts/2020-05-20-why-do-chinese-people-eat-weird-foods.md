@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Why Do Chinese People Eat Weird Foods?"
+canonical_url: "https://culturestride.com/think/why-do-chinese-people-eat-weird-foods"
 categories: [Chinese Culture]
 image: think/assets/images/food.png
 author: clintonchan

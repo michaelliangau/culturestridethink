@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Heritage Rediscovered - A Year In China"
+canonical_url: "https://culturestride.com/think/heritage-rediscovered"
 author: michaelliang
 categories: [ ABC, Study Abroad ]
 image: think/assets/images/heritage-rediscovered-cp.png

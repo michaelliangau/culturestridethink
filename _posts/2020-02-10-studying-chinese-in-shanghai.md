@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Studying Chinese in Shanghai"
+canonical_url: "https://culturestride.com/think/studying-chinese-in-shanghai"
 author: michaelliang
 categories: [ Chinese, Shanghai, Study Abroad ]
 image: think/assets/images/masae_michael.png

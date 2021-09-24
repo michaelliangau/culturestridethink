@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Culturestride Language Updates May 2020"
+canonical_url: "https://culturestride.com/think/culturestride-language-updates-may-2020"
 categories: [ Culturestride Language, Chinese, Company Updates ]
 image: think/assets/images/languageupdatemay2020.png
 author: michaelliang

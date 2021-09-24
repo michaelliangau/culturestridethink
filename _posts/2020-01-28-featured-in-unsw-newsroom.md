@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Culturestride in UNSW Newsroom"
+canonical_url: "https://culturestride.com/think/featured-in-unsw-newsroom"
 categories: [ News, UNSW ]
 image: think/assets/images/unsw-newsroom-cp.jpg
 author: culturestride

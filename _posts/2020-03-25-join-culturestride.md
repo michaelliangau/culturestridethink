@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Join Culturestride"
+canonical_url: "https://culturestride.com/think/join-culturestride"
 categories: [ Culturestride ]
 image: think/assets/images/CSLinkedInBanner.png
 author: michaelliang

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Culturestride in SBS Australia"
+canonical_url: "https://culturestride.com/think/featured-in-sbs-australia"
 categories: [ News, SBS, Podcast ]
 image: think/assets/images/sbs.jpg
 author: culturestride

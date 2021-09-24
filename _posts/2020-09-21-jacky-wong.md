@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Jacky Wong | Entrepreneur and AI Engineer"
+canonical_url: "https://culturestride.com/think/jacky-wong"
 categories: [Cross Borders]
 image: think/assets/images/jacky-1.jpg
 author: culturestride

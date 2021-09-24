@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Justin Chan | Entrepreneur and National Tennis Player"
+canonical_url: "https://culturestride.com/think/justin-chan"
 categories: [Cross Borders]
 image: think/assets/images/justin-chan-2.jpg
 author: culturestride
