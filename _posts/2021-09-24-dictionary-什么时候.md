@@ -2,7 +2,7 @@
 layout: post
 title:  "什么时候 - Mandarin Chinese Dictionary"
 description: "The Chinese characters 什么时候 means at what time or when in Mandarin Chinese. See example sentences from real Culturestride student conversations."
-canonical_url: "https://culturestride.com/think/dictionary-shenmeshihou"
+canonical_url: "https://culturestride.com/think/dictionary-什么时候"
 categories: [Dictionary]
 image: 
 author: culturestride
