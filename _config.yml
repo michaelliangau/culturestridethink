@@ -33,7 +33,15 @@ authors:
       bio:            "Co-Founder of Culturestride."
       email:          michael@culturestride.com
       url:            /think/author-michael-liang
-    
+
+    kevinhuang:
+      name:           Kevin Huang 
+      site:           https://medium.com/kevins-dead
+      avatar:         ../think/assets/images/kevin-huang.jpg
+      bio:            "Culturestride Mandarin student since 2020"
+      email:          https://medium.com/kevins-dead
+      url:            /think/author-kevin-huang
+
     clintonchan:
       name:           Clinton Chan 
       site:           https://medium.com/kevins-dead
