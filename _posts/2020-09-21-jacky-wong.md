@@ -44,3 +44,16 @@ You may not always be surrounded by the right people. Don’t be afraid to find 
 ---
 
 *This article is an entry into Culturestride's "Cross Borders" Article Series highlighting inspirational young people who are exploring international culture, language and opportunities.*
+
+Culturestride is an online Mandarin language platform helping you learn Mandarin communicatively and socially with students like Jacky. We offer a free Theory and Practical class for every new student to try out the platform, <a href="" id="cta" >learn more about Culturestride classes here</a>.
+
+<script>
+const urlSearchParams = new URLSearchParams(window.location.search);
+const params = Object.fromEntries(urlSearchParams.entries());
+if (params.code) {
+var link = 'https://culturestride.com/?code=' + params.code;
+} else {
+var link = 'https://culturestride.com/';
+}
+document.getElementById("cta").href = link;
+</script>
