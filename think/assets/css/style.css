@@ -17,12 +17,12 @@ figcaption {
 
 .highlightBox {
     background: #f6f9fc;
-    padding:20px;
-    margin-bottom:20px;
+    padding: 20px;
+    margin-bottom: 20px;
 }
 
 .subtext {
-    font-size:0.8em;
+    font-size: 0.8em;
 }
 
 .button {
@@ -46,11 +46,16 @@ figcaption {
     width: fit-content;
 }
 
+
 .button-primary {
     color: #fff !important;
     transition: background .15s ease;
     border-radius: 10px;
-    background: #4950F6;
+    background: #4950f6;
+}
+
+.button-primary:hover {
+    background: #11103e
 }
 
 /* Mandarin Spot API */
@@ -295,4 +300,15 @@ figcaption {
     height: 1px;
     background: #D2DAF0;
     background: linear-gradient(to right, rgba(210, 218, 240, 0.1) 0, rgba(210, 218, 240, 0.6) 50%, rgba(210, 218, 240, 0.1) 100%)
+}
+
+.button-secondary {
+    color: #000 !important;
+    background: #ecf0f1;
+    transition: background .15s ease;
+    border-radius: 10px
+}
+
+.button-secondary:hover {
+    background: #dfe6e9
 }

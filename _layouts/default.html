@@ -49,6 +49,8 @@
             </a>
 
             <a class="navbar-brand" href="{{ site.baseurl }}/think"><strong>| Think</strong></a>
+            
+    <a class="button button-secondary button-block button-shadow cta" style="margin-left:auto;" href="https://culturestride.com">Try Theory and Practical Class Free</a>
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02"
                 aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -233,5 +235,20 @@
     {% include tracking-footer.html %}
 
 </body>
+
+<script>
+    // adds code to all cta links if code is defined in query param
+    const urlSearchParams = new URLSearchParams(window.location.search);
+    const params = Object.fromEntries(urlSearchParams.entries());
+    if (params.code) {
+    var link = 'https://culturestride.com/?code=' + params.code;
+    } else {
+    var link = 'https://culturestride.com/';
+    }
+    
+    document.querySelectorAll('.cta').forEach(function(button) {
+        button.href = link;
+    });
+    </script>
 
 </html>
