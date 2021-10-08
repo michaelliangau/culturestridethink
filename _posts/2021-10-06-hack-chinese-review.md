@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I use Hack Chinese Spaced Repetition Vocabulary Software"
-description: "Culturestride student Kevin Huang shares his experience using Mandarin Chinese spaced repetition vocabularly building tool Hack Chinese."
+description: "Culturestride student Kevin Huang shares his experience using Mandarin Chinese spaced repetition vocabulary building tool Hack Chinese."
 canonical_url: "https://culturestride.com/think/hack-chinese-review"
 categories: [tools]
 image: think/assets/images/hackchinese.jpg
