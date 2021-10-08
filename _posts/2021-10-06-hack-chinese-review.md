@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "How do real Culturestride Mandarin students use Hack Chinese?"
-description: "Culturestride student Kevin Huang reviews Mandarin Chinese spaced repetition vocabularly building tool Hack Chinese"
+title:  "How I use Hack Chinese Spaced Repetition Vocabulary Software"
+description: "Culturestride student Kevin Huang shares his experience using Mandarin Chinese spaced repetition vocabularly building tool Hack Chinese."
 canonical_url: "https://culturestride.com/think/hack-chinese-review"
 categories: [tools]
-image: 
+image: think/assets/images/hackchinese.jpg
 author: kevinhuang
 tags: []
 ---
@@ -31,7 +31,7 @@ I love being able to just study during my short commute to work and back home, a
 Every morning on the way to work, I open my Hack Chinese webpage which brings me to this dashboard.
 
 <figure>
-  <img class="blogImage" src="../../think/assets/images/hackchinesedashboard.png" alt="Hack Chinese Dashboard"/>
+  <img class="blogImage" style="max-height:600px" src="../../think/assets/images/hackchinesedashboard.png" alt="Hack Chinese Dashboard"/>
   <figcaption>Kevin's Hack Chinese dashboard</figcaption>
 </figure>
 
@@ -42,30 +42,26 @@ The next section shows ‘Study Consistency’, which shows how consistent you�
 Selecting the top right ‘Study’ button shows a series of study options, including a typical ‘Everyday’ mode optimized for long-term growth, and ‘Custom’ modes, for your style and specific situation. Every morning I will select the Everyday session, where I can then select a study session from 2, 3, 6 or 10 minutes long. 
 
 <figure>
-  <img class="blogImage" src="../../think/assets/images/cathy-5.png" alt="Cathy Su"/>
-  <figcaption>View of the Shenzhen skyline at Shenzhen Museum</figcaption>
-</figure>
-
-<figure>
-  <img class="blogImage" src="../../think/assets/images/cathy-5.png" alt="Cathy Su"/>
-  <figcaption>View of the Shenzhen skyline at Shenzhen Museum</figcaption>
+  <img class="blogImage" src="../../think/assets/images/hackchinesestudy1.png" alt="Hack Chinese Study Mode"/>
+  <figcaption>Hack Chinese Study Mode</figcaption>
 </figure>
 
 From here your words will appear one a time, without any prompts. You then follow the prompts given at the bottom of the screen, first recalling the pronunciation of the word, and then it’s meaning.
 
 <figure>
-  <img class="blogImage" src="../../think/assets/images/cathy-5.png" alt="Cathy Su"/>
-  <figcaption>View of the Shenzhen skyline at Shenzhen Museum</figcaption>
+  <img class="blogImage" src="../../think/assets/images/hackchinesestudy2.png" alt="Hack Chinese Study Mode"/>
+  <figcaption>Hack Chinese Study Mode (Pronounciation)</figcaption>
+</figure>
+
+
+<figure>
+  <img class="blogImage" src="../../think/assets/images/hackchinesestudy3.png" alt="Hack Chinese Study Mode"/>
+  <figcaption>Hack Chinese Study Mode (Definitions)</figcaption>
 </figure>
 
 <figure>
-  <img class="blogImage" src="../../think/assets/images/cathy-5.png" alt="Cathy Su"/>
-  <figcaption>View of the Shenzhen skyline at Shenzhen Museum</figcaption>
-</figure>
-
-<figure>
-  <img class="blogImage" src="../../think/assets/images/cathy-5.png" alt="Cathy Su"/>
-  <figcaption>View of the Shenzhen skyline at Shenzhen Museum</figcaption>
+  <img class="blogImage" src="../../think/assets/images/hackchinesestudy4.png" alt="Hack Chinese Study Mode"/>
+  <figcaption>Hack Chinese Study Mode (Definitions)</figcaption>
 </figure>
 
 Once you’ve successfully remembered the word’s pronunciation and definition, the application will categorise this word into a ‘strong’ memory, and will not pop up in your scheduled study sessions until it becomes ‘weak’ again after time. This process repeats indefinitely, eventually showing up very occasionally having being implanted in your long-term memory. This is a very efficient way of memorising words for the time studied, allowing me to retain many words over time. 
@@ -76,8 +72,8 @@ One of the toughest aspects of learning a new language is the need to constantly
 Hack Chinese has a great database of predetermined word lists that mimic many textbooks, standard HSK learning lists and even community lists which focus on popular vocabulary relevant in modern society. It makes finding new content near effortless, incorporating a great flashcard system which incorporates useful audio cues to help with pronunciation.
 
 <figure>
-  <img class="blogImage" src="../../think/assets/images/cathy-5.png" alt="Cathy Su"/>
-  <figcaption>View of the Shenzhen skyline at Shenzhen Museum</figcaption>
+  <img class="blogImage" style="max-height:600px" src="../../think/assets/images/hackchinesewordlist.png" alt="Hack Chinese Word List"/>
+  <figcaption>Hack Chinese Word Lists</figcaption>
 </figure>
 
 Consistency is a very important part of learning a new language. Learning a little a day is so much more effective than putting in a couple hour blocks every week. The Hack Chinese system encourages daily work with an aesthetic and gamified dashboard, showing visually your vocabulary growth accumulating over time.
@@ -85,6 +81,10 @@ Consistency is a very important part of learning a new language. Learning a litt
 It shows how many words left of a particular word list you have to learn, and offers a visual ‘study consistency’ bar to encourage at least 5 minutes of review a day. Even if you do not review for an extended period of time, words you do recall after coming back will be placed into your long term memory category, so the system will not ask you to recall it for an extended period.
 
 This is the most efficient way of memorising lots of new content – instead of having to go through all 1000 words a day, it surfaces the ‘weakest’ memorised words first, which will get shown only when you are about to memorise it.
+
+<div style="width:100%;text-align:center">
+<a class="button button-primary button-block button-shadow" style="display:inline-block; margin: 10px" href="https://www.hackchinese.com/" target="_blank">Visit Hack Chinese Website</a>
+</div>
 
 ### About Kevin
 I am a 23 year old Australian-born Chinese. Living in a single parent home, growing up I had very little exposure to Chinese. I spoke to Dad in English while he replied with a very niche dialect of Chinese. I could not comprehend my friend’s parents, when visiting their homes, could not give directions to Chinese people on the street, or communicate with my extended family. I felt insecure and was quite embarrassed. 
@@ -94,4 +94,4 @@ Learning Chinese has been a really fulfilling hobby. I want to say, if you want 
 
 If you have any questions, feel free to follow me @kevinxhuang on Instagram with a DM. 
 
-I’d like to share a big thank you to Culturestride for helping me connect with my native Chinese tutor Angela. She has been amazing at helping me with my Chinese language journey. 
+I’d like to share a big thank you to [Culturestride](https://culturestride.com/) for helping me connect with my native Chinese tutor Angela. She has been amazing at helping me with my Chinese language journey. 
