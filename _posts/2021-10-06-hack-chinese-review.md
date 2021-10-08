@@ -83,7 +83,7 @@ It shows how many words left of a particular word list you have to learn, and of
 This is the most efficient way of memorising lots of new content – instead of having to go through all 1000 words a day, it surfaces the ‘weakest’ memorised words first, which will get shown only when you are about to memorise it.
 
 <div style="width:100%;text-align:center">
-<a class="button button-primary button-block button-shadow" style="display:inline-block; margin: 10px" href="https://www.hackchinese.com/" target="_blank">Visit Hack Chinese Website</a>
+<a class="button button-primary button-block button-shadow" style="display:inline-block; margin: 10px" href="https://www.hackchinese.com/?utm_source=culturestride" target="_blank">Visit Hack Chinese Website</a>
 </div>
 
 ### About Kevin
